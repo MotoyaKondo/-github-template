@@ -1,4 +1,4 @@
-# Project Title
+# github-template
 
 This is an example of a .github directory.
 
