@@ -1,5 +1,7 @@
 # github-template
 
+![CI](https://github.com/MotoyaKondo/github-template/workflows/CI/badge.svg?branch=master)
+
 This is an example of a .github directory.
 
 ## Getting Started
