@@ -1,14 +1,26 @@
 ---
-name: Task
-about: Task の内容と期限
+name: "Todos"
+about: 'Issue Assignment / Show Issue Details'
+title: ''
+labels: 'i: tasks, i: needs triage'
+assignees: ''
 
 ---
 
-## タスク
+<!-- Remove items that do not apply -->
+## Task description
 
-### 資料 
+### Task Details / Research Question
+<!--- comment -->
+- [ ] a
+- [ ] b
+- [ ] c
+- [ ] d
 
-### 作業
-- [ ] 作業１
+### Completion Requirement
+<!--- comment -->
 
-### 完了条件
+### Due
+<!--- comment -->
+
+## Refs
